@@ -1,0 +1,145 @@
+@media screen and (max-width:1024px) {
+    .calling-items{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:1280px) {
+    .nav-item{
+        font-size: 17px;
+    }
+    .logo-extra{
+        display: none;
+    }
+    .about-course{
+        width: 700px;
+    }
+    .hero-text{
+        width: 70%;
+    }
+    .hero-main-text{
+        font-size: 50px;
+    }
+    .hero-list-text{
+        font-size: 15px;
+    }
+    
+
+
+    .gks-cont{
+        width: 80%;
+        margin: 0 auto;
+        background: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 70px;
+    }
+    .gks-img{
+        width: 900px;
+        background: none;
+    }
+    .gks-img img{
+        width: 100%;
+        background: none;
+    }
+    .gks-info{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .video-cont{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .video{
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .ourhelp-text{
+        width: 80%;
+    }
+    .ellips{
+        top: 20%;
+        right: 40%;
+    }
+
+
+
+
+    .course-text h2{
+        font-size: 38px;
+        margin-bottom: 50px;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+    .course-list{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        padding-top: 50px;
+    }
+    .course-list-item{
+        width: 300px;
+        height: 480px;
+        position: relative;
+      }
+      .list-item-cont{
+        width: 300px;
+        height: 480px;
+        background: #F7F7F7;
+        border-radius: 55px;
+        padding: 20px;
+        padding-top: 200px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .whyus-list{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+    row-gap: 100px;
+    column-gap: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    }
+
+
+
+
+
+    .footer-list{
+        width: 40%;
+    }
+}
